@@ -36,7 +36,6 @@ etc/xtra_root_cert.pem
 etc/xtwifi.conf
 lib/hw/camera.msm8610.so
 lib/hw/sensors.msm8610.so
-lib/libOmxVdec.so
 lib/libchromatix_ar0543_common.so
 lib/libchromatix_ar0543_default_video.so
 lib/libchromatix_ar0543_preview.so
